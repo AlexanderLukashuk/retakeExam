@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/bin/Debug/netcoreapp3.1/RockPlaylist.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/bin/Debug/netcoreapp3.1/RockPlaylist.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/bin/Debug/netcoreapp3.1/RockPlaylist.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/bin/Debug/netcoreapp3.1/RockPlaylist.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/bin/Debug/netcoreapp3.1/RockPlaylist.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/obj/Debug/netcoreapp3.1/RockPlaylist.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/obj/Debug/netcoreapp3.1/RockPlaylist.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/obj/Debug/netcoreapp3.1/RockPlaylist.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/obj/Debug/netcoreapp3.1/RockPlaylist.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/retake/RockPlaylist/obj/Debug/netcoreapp3.1/RockPlaylist.pdb
